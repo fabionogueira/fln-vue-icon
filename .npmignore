@@ -1,2 +1,11 @@
-test/
-README.md
+dist/
+node_modules/
+public/
+src/App.vue
+src/main.vue
+.browserslistrc
+.eslintrc.js
+babel.config.js
+npm-pack.sh
+package-lock.json
+postcss.config.js
