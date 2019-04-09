@@ -1,7 +1,8 @@
 {
   "name": "fln-vue-icon",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "src/fln-vue-icon/index.js",
+  "license": "ISC",
   "scripts": {
     "publish": "node npm-publish.js",
     "serve": "vue-cli-service serve",
