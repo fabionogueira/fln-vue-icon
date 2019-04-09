@@ -1,4 +1,6 @@
 
+# fln-vue-icon v0.1.0
+
 A simple tool and component vue to create svg icons.
 
 ### Installation
